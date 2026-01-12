@@ -1,5 +1,15 @@
 # Changelog
 
+## [0.53.2](https://github.com/ferencsarai/swarm-desktop/compare/v0.53.1...v0.53.2) (2026-01-12)
+
+
+### Bug Fixes
+
+* merge pull request [#22](https://github.com/ferencsarai/swarm-desktop/issues/22) from ferencsarai/fix/readme ([d7811d5](https://github.com/ferencsarai/swarm-desktop/commit/d7811d5f524b507e7674da632246077cd48e66a4))
+* typo ([d7811d5](https://github.com/ferencsarai/swarm-desktop/commit/d7811d5f524b507e7674da632246077cd48e66a4))
+* typo ([fb1efc9](https://github.com/ferencsarai/swarm-desktop/commit/fb1efc9da75e185c6a0c8c1c5b78fe4a718db4f6))
+* update release.yaml ([cb79d04](https://github.com/ferencsarai/swarm-desktop/commit/cb79d04adab667590fcf3dd14156f2ac109e689b))
+
 ## [0.53.1](https://github.com/ferencsarai/swarm-desktop/compare/v0.53.0...v0.53.1) (2026-01-12)
 
 
