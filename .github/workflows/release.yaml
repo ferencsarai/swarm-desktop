@@ -2,6 +2,7 @@
 # automatically bumps version and creates changelog as per conventional commits
 name: Release
 on:
+  workflow_dispatch:
   push:
     branches:
       - master
@@ -16,10 +17,4 @@ jobs:
         id: release
         with:
           token: ${{ secrets.GHA_PAT_BASIC }}
-      - name: Trigger assets builds on release
-        if: ${{ steps.release.outputs.release_created }}
-        uses: peter-evans/repository-dispatch@v2
-        with:
-          token: ${{ secrets.GHA_PAT_BASIC }}
-          event-type: assets-build
-          client-payload: '{"version": "${{ steps.release.outputs.tag_name }}"}'
+          release-type: node
