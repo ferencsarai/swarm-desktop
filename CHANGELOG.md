@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.53.1](https://github.com/ferencsarai/swarm-desktop/compare/v0.53.0...v0.53.1) (2026-01-12)
+
+
+### Bug Fixes
+
+* remove draft: true from release.yaml ([25448cf](https://github.com/ferencsarai/swarm-desktop/commit/25448cf1aacce94eefe1a7a973eda837c8fbe5c4))
+
 ## [0.53.0](https://github.com/ferencsarai/swarm-desktop/compare/v0.52.6...v0.53.0) (2026-01-12)
 
 
