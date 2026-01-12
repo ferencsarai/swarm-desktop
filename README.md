@@ -1,4 +1,4 @@
-# Swarm Desktop
+# Swarm Desktop README
 
 [![Tests](https://github.com/ethersphere/swarm-desktop/actions/workflows/tests.yaml/badge.svg)](https://github.com/ethersphere/swarm-desktop/actions/workflows/tests.yaml)
 [![](https://img.shields.io/badge/made%20by-Swarm-blue.svg?style=flat-square)](https://swarm.ethereum.org/)
