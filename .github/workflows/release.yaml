@@ -17,4 +17,6 @@ jobs:
         id: release
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          release-type: node
+          draft-release: true
           config-file: release-please-config.json
