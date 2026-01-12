@@ -1,7 +1,5 @@
 # Swarm Desktop
 
-test release-please
-
 [![Tests](https://github.com/ethersphere/swarm-desktop/actions/workflows/tests.yaml/badge.svg)](https://github.com/ethersphere/swarm-desktop/actions/workflows/tests.yaml)
 [![](https://img.shields.io/badge/made%20by-Swarm-blue.svg?style=flat-square)](https://swarm.ethereum.org/)
 [![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
