@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.52.5](https://github.com/ferencsarai/swarm-desktop/compare/v0.52.4...v0.52.5) (2026-01-12)
+
+
+### Bug Fixes
+
+* readme typo ([1370fe8](https://github.com/ferencsarai/swarm-desktop/commit/1370fe8cecd714e48b011a33e8226684c18e6fc1))
+* readme typo ([27544f8](https://github.com/ferencsarai/swarm-desktop/commit/27544f803f4e671d3e934815164654cd08c7c119))
+
 ## [0.52.4](https://github.com/ferencsarai/swarm-desktop/compare/v0.52.3...v0.52.4) (2026-01-12)
 
 
