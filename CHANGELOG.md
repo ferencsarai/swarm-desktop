@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.53.2](https://github.com/ferencsarai/swarm-desktop/compare/v0.53.1...v0.53.2) (2026-01-12)
+
+
+### Bug Fixes
+
+* update release.yaml ([cb79d04](https://github.com/ferencsarai/swarm-desktop/commit/cb79d04adab667590fcf3dd14156f2ac109e689b))
+
 ## [0.53.1](https://github.com/ferencsarai/swarm-desktop/compare/v0.53.0...v0.53.1) (2026-01-12)
 
 
