@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.53.3](https://github.com/ferencsarai/swarm-desktop/compare/v0.53.2...v0.53.3) (2026-01-12)
+
+
+### Bug Fixes
+
+* update release-please-config.json ([f774f8a](https://github.com/ferencsarai/swarm-desktop/commit/f774f8a36e9e0a954d005e8bf5f06ec460df4c44))
+
 ## [0.53.2](https://github.com/ferencsarai/swarm-desktop/compare/v0.53.1...v0.53.2) (2026-01-12)
 
 
