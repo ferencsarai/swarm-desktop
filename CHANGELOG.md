@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.53.0](https://github.com/ferencsarai/swarm-desktop/compare/v0.52.6...v0.53.0) (2026-01-12)
+
+
+### Features
+
+* add release-please-config.json with draft: true ([fa9245d](https://github.com/ferencsarai/swarm-desktop/commit/fa9245dbf9d446dff29e5abf862ed048b465450b))
+
 ## [0.52.6](https://github.com/ferencsarai/swarm-desktop/compare/v0.52.5...v0.52.6) (2026-01-12)
 
 
