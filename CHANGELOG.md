@@ -1,5 +1,20 @@
 # Changelog
 
+## [0.53.3](https://github.com/ferencsarai/swarm-desktop/compare/v0.53.2...v0.53.3) (2026-01-12)
+
+
+### Bug Fixes
+
+* merge pull request [#25](https://github.com/ferencsarai/swarm-desktop/issues/25) from ferencsarai/fix/readme ([acc3ed4](https://github.com/ferencsarai/swarm-desktop/commit/acc3ed418bb6bfd039df5b033e1ae243b390d001))
+* merge pull request [#27](https://github.com/ferencsarai/swarm-desktop/issues/27) from ferencsarai/fix/readme ([cde7a2f](https://github.com/ferencsarai/swarm-desktop/commit/cde7a2ffd94fbd9800b1a83db01a4d30826e2a6d))
+* rename App name ([cde7a2f](https://github.com/ferencsarai/swarm-desktop/commit/cde7a2ffd94fbd9800b1a83db01a4d30826e2a6d))
+* rename App name ([4606317](https://github.com/ferencsarai/swarm-desktop/commit/4606317c88204e804ec12012f9c93e98d195ca4c))
+* typo ([acc3ed4](https://github.com/ferencsarai/swarm-desktop/commit/acc3ed418bb6bfd039df5b033e1ae243b390d001))
+* typo ([0cbc8c4](https://github.com/ferencsarai/swarm-desktop/commit/0cbc8c483c14f01ddb8e29722a3ba554a2f5ebea))
+* update release-please-config.json ([f774f8a](https://github.com/ferencsarai/swarm-desktop/commit/f774f8a36e9e0a954d005e8bf5f06ec460df4c44))
+* update release.yaml ([7398fc2](https://github.com/ferencsarai/swarm-desktop/commit/7398fc299fbe81a329f26e126d62182f7794edb9))
+* update release.yaml ([86edcf1](https://github.com/ferencsarai/swarm-desktop/commit/86edcf1db873a42c19e7a56778fb0887b88d123b))
+
 ## [0.53.2](https://github.com/ferencsarai/swarm-desktop/compare/v0.53.1...v0.53.2) (2026-01-12)
 
 
